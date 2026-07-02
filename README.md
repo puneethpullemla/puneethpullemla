@@ -100,7 +100,6 @@ I work across two tracks:
 <td width="50%" valign="top">
 
 ### 🤖 Multi-Agent Research Assistant
-> *May 2026 – Jun 2026*
 
 4-agent autonomous pipeline (Researcher, Summarizer, Fact Verifier, Report Generator) built with LangGraph, orchestrated as a directed graph with conditional routing.
 
@@ -129,8 +128,8 @@ Full-stack enterprise workforce management platform with **FastAPI + PostgreSQL*
 <tr>
 <td width="50%" valign="top">
 
-### 📄 AI PDF Chatbot (RAG)
-> *Jan 2026 – Feb 2026*
+### 📄 RAG-Based PDF Question Answering System
+
 
 RAG-based QA system for **100+ PDF documents** with context-aware responses.
 
@@ -144,7 +143,7 @@ RAG-based QA system for **100+ PDF documents** with context-aware responses.
 <td width="50%" valign="top">
 
 ### 📋 AI Resume Analyzer
-> *Oct 2025 – Nov 2025*
+
 
 NLP system that evaluates **resume-job alignment** with ATS scoring and skill gap detection.
 
