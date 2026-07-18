@@ -12,6 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-puneethpullemla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/puneethpullemla)
 [![GitHub](https://img.shields.io/badge/GitHub-puneethpullemla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/puneethpullemla)
+[![Portfolio](https://img.shields.io/badge/Portfolio-puneethpullemla-7c6fc4?style=for-the-badge&logo=vercel&logoColor=white)](https://puneethpullemla-portfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-puneethpullemla@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneethpullemla@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91_9949553362-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919949553362)
 
@@ -34,9 +35,10 @@ I work across two tracks:
 ## 🧠 What I Can Build
 
 - Multi-agent AI systems for research and automation
-- RAG pipelines over large document datasets
+- RAG pipelines grounded in custom knowledge bases (FAISS, pgvector)
 - Production-grade REST APIs with auth, RBAC, and relational databases
-- Full-stack web platforms (FastAPI/React) with Docker + CI/CD deployment
+- Full-stack web platforms (FastAPI + React) with Docker + CI/CD deployment
+- AI-powered knowledge platforms with semantic search and grounded generation
 - AI copilots for resume screening, Q&A, and analytics
 
 ---
@@ -50,6 +52,7 @@ I work across two tracks:
 ![LangGraph](https://img.shields.io/badge/LangGraph-7c6fc4?style=for-the-badge&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily_Search-7c6fc4?style=for-the-badge&logoColor=white)
 
 ### 🧬 Deep Learning & NLP
@@ -60,6 +63,7 @@ I work across two tracks:
 
 ### 🔍 Vector Search & Retrieval
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-1C3C3C?style=for-the-badge&logoColor=white)
 ![Semantic Search](https://img.shields.io/badge/Semantic_Search-7c6fc4?style=for-the-badge&logoColor=white)
 
@@ -73,6 +77,8 @@ I work across two tracks:
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### ☁️ DevOps & Testing
@@ -80,6 +86,8 @@ I work across two tracks:
 ![AWS](https://img.shields.io/badge/AWS_EC2%2FS3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -99,7 +107,7 @@ I work across two tracks:
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Multi-Agent Research Assistant
+### 🤖 [Multi-Agent Research Assistant](https://github.com/puneethpullemla/multi-agent-research-assistant)
 
 4-agent autonomous pipeline (Researcher, Summarizer, Fact Verifier, Report Generator) built with LangGraph, orchestrated as a directed graph with conditional routing.
 
@@ -112,8 +120,7 @@ I work across two tracks:
 </td>
 <td width="50%" valign="top">
 
-### 🏢 StaffOS — Enterprise Workforce Platform
-> *Full-Stack Deployment*
+### 🏢 [StaffOS — Enterprise Workforce Platform](https://github.com/puneethpullemla/StaffOS-Enterprise-Workforce-Management-Platform)
 
 Full-stack enterprise workforce management platform with **FastAPI + PostgreSQL** backend and **React 19 + TypeScript** frontend.
 
@@ -128,30 +135,46 @@ Full-stack enterprise workforce management platform with **FastAPI + PostgreSQL*
 <tr>
 <td width="50%" valign="top">
 
-### 📄 RAG-Based PDF Question Answering System
+### 🧭 [Startup Navigator — RAG Knowledge Platform](https://github.com/puneethpullemla/Startup-Navigator)
 
+Full-stack AI knowledge platform for founders — 60-article knowledge base with RAG-grounded answers via pgvector + Gemini API, admin CRUD, JWT auth, and live dashboard.
+
+- 🔍 pgvector cosine similarity retrieval + Gemini 2.5 Flash generation
+- 🔐 JWT Auth + RBAC + full admin panel + search history logging
+- 🌐 Deployed across Vercel (frontend), Render (backend), Neon (PostgreSQL)
+
+`FastAPI` `pgvector` `Gemini API` `React 18` `Tailwind CSS` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [RAG-Based PDF Question Answering System](https://github.com/puneethpullemla/AI-Pdf-Chatbot)
 
 RAG-based QA system for **100+ PDF documents** with context-aware responses.
 
 - 🧬 Semantic embeddings via FLAN-T5
-- ⚡ Vector search — **40% latency reduction**
+- ⚡ Vector search — **~40% latency reduction** through chunk-size tuning
 - 💬 Real-time Streamlit chat interface
 
 `LangChain` `FAISS` `FLAN-T5` `RAG` `Streamlit`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 📋 AI Resume Analyzer
-
+### 📋 [AI Resume Analyzer](https://github.com/puneethpullemla/AI-Resume-Analyzer)
 
 NLP system that evaluates **resume-job alignment** with ATS scoring and skill gap detection.
 
 - 🎯 Sentence Transformers (all-MiniLM-L6-v2)
-- 📈 **35% improvement** in matching accuracy
+- 📈 **~35% improvement** in matching accuracy over TF-IDF baseline
 - ✅ ATS scoring + skill gap detection
 
 `NLP` `Sentence Transformers` `pdfplumber` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
