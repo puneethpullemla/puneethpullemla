@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-puneethpullemla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/puneethpullemla)
 [![GitHub](https://img.shields.io/badge/GitHub-puneethpullemla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/puneethpullemla)
-[![Portfolio](https://img.shields.io/badge/Portfolio-puneethpullemla-7c6fc4?style=for-the-badge&logo=vercel&logoColor=white)](https://puneethpullemla-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-puneethpullemla-7c6fc4?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-omega-sand-68.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-puneethpullemla@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneethpullemla@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+91_9949553362-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919949553362)
 
