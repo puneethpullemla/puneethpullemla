@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6fc4&height=200&section=header&text=Puneeth%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20LLMs%20%7C%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6fc4&height=200&section=header&text=Puneeth%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Java%20%7C%20LLMs%20%7C%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://github.com/puneethpullemla">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=A899E8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+AI+systems+that+think%2C+retrieve+%26+act+%F0%9F%A4%96;Also+shipping+production+backends+%26+full-stack+apps+%F0%9F%9A%80;LangChain+%7C+LangGraph+%7C+RAG+%7C+FastAPI+%7C+React+%F0%9F%94%97;Final-year+CS+%28AI+%26+ML%29+%40+Malla+Reddy+University+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=A899E8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+AI+systems+that+think%2C+retrieve+%26+act+%F0%9F%A4%96;Also+shipping+production+backends+%26+full-stack+apps+%F0%9F%9A%80;LangChain+%7C+LangGraph+%7C+RAG+%7C+FastAPI+%7C+Spring+Boot+%7C+React+%F0%9F%94%97;Final-year+CS+%28AI+%26+ML%29+%40+Malla+Reddy+University+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,9 +26,9 @@ I am a final-year Computer Science (AI & ML) engineer who builds **end-to-end sy
 
 I work across two tracks:
 - 🤖 **AI Engineering** — LLM orchestration, RAG pipelines, agentic AI systems
-- 🛠️ **Software Engineering** — REST APIs, relational databases, full-stack apps, CI/CD & cloud deployment
+- 🛠️ **Software Engineering** — REST APIs (FastAPI & Java/Spring Boot), relational databases, full-stack apps, CI/CD & cloud deployment
 
-🎯 Actively seeking **AI Engineer / ML Engineer** and **Software Development Engineer (SDE)** roles in startups and product-based teams.
+🎯 Actively seeking **AI Engineer / ML Engineer** and **Software Development Engineer (SDE)** roles, including Java backend roles, in startups and product-based teams.
 
 ---
 
@@ -37,6 +37,7 @@ I work across two tracks:
 - Multi-agent AI systems for research and automation
 - RAG pipelines grounded in custom knowledge bases (FAISS, pgvector)
 - Production-grade REST APIs with auth, RBAC, and relational databases
+- Secure Spring Boot REST APIs with JWT auth and ownership-based authorization
 - Full-stack web platforms (FastAPI + React) with Docker + CI/CD deployment
 - AI-powered knowledge platforms with semantic search and grounded generation
 - AI copilots for resume screening, Q&A, and analytics
@@ -74,8 +75,21 @@ I work across two tracks:
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
+### ☕ Java Backend
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Web](https://img.shields.io/badge/Spring_Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC_%2F_JdbcTemplate-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_%28jjwt%29-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-3B3B3B?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -120,6 +134,22 @@ I work across two tracks:
 </td>
 <td width="50%" valign="top">
 
+### 🔐 [VaultLink — Secure Temporary File Sharing](https://github.com/puneethpullemla/Vaultlink)
+
+Secure file-sharing platform built with **Java 17 + Spring Boot** and a **React (Vite)** frontend. Users upload files and generate time-limited, revocable download links instead of sending files directly.
+
+- ⏳ Time-limited share links (1hr / 1day / 7days) with server-side expiry and revocation checks
+- 🔐 JWT-authenticated REST API (jjwt + BCrypt) with ownership-based authorization — users manage only their own files
+- 🎲 Unpredictable share tokens generated via `SecureRandom`
+- 🗄️ MySQL with hand-written SQL via `JdbcTemplate` (no ORM)
+
+`Java 17` `Spring Boot` `Spring Security` `JDBC` `MySQL` `React` `Maven`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏢 [StaffOS — Enterprise Workforce Platform](https://github.com/puneethpullemla/StaffOS-Enterprise-Workforce-Management-Platform)
 
 Full-stack enterprise workforce management platform with **FastAPI + PostgreSQL** backend and **React 19 + TypeScript** frontend.
@@ -131,8 +161,6 @@ Full-stack enterprise workforce management platform with **FastAPI + PostgreSQL*
 `FastAPI` `PostgreSQL` `React.js` `TypeScript` `AWS EC2` `Docker`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧭 [Startup Navigator — RAG Knowledge Platform](https://github.com/puneethpullemla/Startup-Navigator)
@@ -146,6 +174,8 @@ Full-stack AI knowledge platform for founders — 60-article knowledge base with
 `FastAPI` `pgvector` `Gemini API` `React 18` `Tailwind CSS` `Vercel`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📄 [RAG-Based PDF Question Answering System](https://github.com/puneethpullemla/AI-Pdf-Chatbot)
@@ -159,8 +189,6 @@ RAG-based QA system for **100+ PDF documents** with context-aware responses.
 `LangChain` `FAISS` `FLAN-T5` `RAG` `Streamlit`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📋 [AI Resume Analyzer](https://github.com/puneethpullemla/AI-Resume-Analyzer)
@@ -172,9 +200,6 @@ NLP system that evaluates **resume-job alignment** with ATS scoring and skill ga
 - ✅ ATS scoring + skill gap detection
 
 `NLP` `Sentence Transformers` `pdfplumber` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
